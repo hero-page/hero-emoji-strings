@@ -1,0 +1,11 @@
+exports.emojiCount = require('./functions/emojiCount');
+exports.emojify = require('./functions/emojify');
+exports.getContainedEmojis = require('./functions/getContainedEmojis');
+exports.indexOfEmoji = require('./functions/indexOfEmoji');
+exports.isValidEmoji = require('./functions/isValidEmoji');
+exports.lengthWithEmoji = require('./functions/lengthWithEmoji');
+exports.removeEmoji = require('./functions/removeEmoji');
+exports.replaceEmoji = require('./functions/replaceEmoji');
+exports.shortcodeify = require('./functions/shortcodeify');
+exports.splitByEmoji = require('./functions/splitByEmoji');
+exports.substringWithEmoji = require('./functions/substringWithEmoji');

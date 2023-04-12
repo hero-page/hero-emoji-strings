@@ -1,0 +1,22 @@
+{
+  "name": "@hero-page/hero-emoji-strings",
+  "version": "1.0.0",
+  "description": "A library to manage strings with emojis, making it easier to manipulate, count and sanitize strings that contain emojis",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {},
+  "keywords": [
+    "emoji",
+    "strings",
+    "manipulation",
+    "count",
+    "sanitize",
+    "shortcode",
+    "unicode"
+  ],
+  "author": "Sam Chahine",
+  "license": "MIT",
+  "dependencies": {}
+}
